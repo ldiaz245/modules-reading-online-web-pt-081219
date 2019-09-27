@@ -5,5 +5,6 @@ attr_accessor :name
 
 def initializ(name)
   @name = name
-end
+class Dancer
+  extend MetaDancing
 end
